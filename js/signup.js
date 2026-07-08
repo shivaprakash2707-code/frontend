@@ -1,4 +1,4 @@
-const API_BASE_URL = "https://shivaprakash2707-code.github.io/fullstackbackend";
+const API_BASE_URL = "https://fullstackbackend-1r8v.onrender.com";
 
 const form = document.getElementById("signupForm");
 const errorMessage = document.getElementById("errorMessage");
