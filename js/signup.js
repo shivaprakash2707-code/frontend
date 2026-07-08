@@ -1,4 +1,4 @@
-const API_BASE_URL = "https://shivaprakash2707-code.github.io/fullstackfrontend/";
+const API_BASE_URL = "https://shivaprakash2707-code.github.io/fullstackbackend";
 
 const form = document.getElementById("signupForm");
 const errorMessage = document.getElementById("errorMessage");
